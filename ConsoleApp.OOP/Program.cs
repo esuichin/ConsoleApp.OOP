@@ -9,8 +9,8 @@ Console.WriteLine("******** - Classes and Objects - ***********");
 Person person; // this will be null by default
 
 Person baby = new Person();
-baby.LastName = "Thompson";
-baby.FirstName = "Theresa";
+baby.LastName = "Sui";
+baby.FirstName = "Esther";
 baby.DateOfBirth = new DateOnly(2023, 10, 29);
 
 //Console.WriteLine($"{baby.FirstName} {baby.LastName}");
